@@ -1,0 +1,64 @@
+.plans {
+    text-align: center;
+}
+
+.navbar-home {
+    background-color: blue;
+    border-color: none;
+    border-radius: 0px;
+    border: none;
+    margin-bottom: 0px;
+}
+
+.navbar-home .navbar-nav>li>a {
+    color: #f5f5f5;
+}
+
+.navbar-home .navbar-brand {
+    color: #f5f5f5;
+    font-weight
+}
+
+.last {
+    position: bottom;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: blue;
+    color: white;
+    text-align: center;
+  }
+
+  #f-left {
+      text-align: center;
+      color: chocolate;
+  }
+  #s-left {
+      text-align: center;
+      color: rgb(32, 201, 32);
+  }
+
+  #left {
+      text-align: center;
+  }
+
+  #m-middle {
+      text-align: center;
+      color: chocolate;
+  }
+
+  #f-right {
+      color: chocolate;
+  }
+
+  #s-right {
+      color: rgb(32, 201, 32);
+  }
+
+  #edit {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 2rem;
+  }
+
+  
+
